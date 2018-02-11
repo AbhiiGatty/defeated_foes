@@ -48,11 +48,3 @@ for i in range(rounds):
 
 for i in range(len(Max_Scores)):
     print("Case {}: {}".format(i+1, Max_Scores[i]))
-
-3
-7
-7 4 3 2 1 5 6
-6
-9 1 8 5 1 12
-7
-7 6 5 4 3 2 1
